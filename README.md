@@ -8,4 +8,5 @@
 - [django tmeplate indexing](https://cnpnote.tistory.com/entry/PYTHON-%EC%9E%A5%EA%B3%A0-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%82%B4%EC%97%90%EC%84%9C-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%B3%84%EB%A1%9C-%EB%AA%A9%EB%A1%9D-%ED%95%AD%EB%AA%A9%EC%9D%84-%EC%B0%B8%EC%A1%B0-%ED%95%98%EC%8B%9C%EA%B2%A0%EC%8A%B5%EB%8B%88%EA%B9%8C)
 - 위에 두개 2d list indexing 할 때 씀
 - [django API reference](https://docs.djangoproject.com/en/dev/ref)
+- [게시판](https://integer-ji.tistory.com/100)
 
