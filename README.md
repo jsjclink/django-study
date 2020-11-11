@@ -1,5 +1,10 @@
 # django
 
+- startproject django-admin startproject projectname
+- app추가 python manage.py startapp appname
+- app추가 후 model 만들면 사용을 위해 settings.py에 추가해줘야함 ex) 'polls.apps.PollsConfig'
+- templates/ 폴더 만들고 아래에 .html 파일 추가 한 경우도 settings.py에 app 추가
+
 - 설치는 그냥 구글
 - [django tutorial](https://docs.djangoproject.com/ko/3.1/intro/tutorial01/)
 - html꾸밀때 bootstrap쓰니깐 좋음
